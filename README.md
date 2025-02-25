@@ -13,10 +13,10 @@ Itinerant's planetary system accurately simulates planets orbiting around stars,
 
 Planets have a file system that infers volumetric information, and can have multiple layers of minerals under the ground. The system is designed to mimic real geological formations and therefore pockets of minerals and faultlines can appear, and this can be procedurally generated or fed from stored data.
 
-![planet-02](https://github.com/user-attachments/assets/71f2f52b-899f-48e2-9ee7-3e6242e60625)
+![planet-02](img/planet-02.jpg)
 > _A procedural planet with different vegetation and geology based on height. The terrain generation system in Itinerant has been abstracted so that different terrain generators can be developed. Currently there are several basic procedural terrain generators, and a version that supports taking DTM/LIDAR data alongside other planetary information to generate real-world locations, such as Planet Earth and Mars._
 
-![digging](https://github.com/user-attachments/assets/570e46a3-f860-47f7-a7b7-547c14c60150)
+![digging](img/digging.jpg)
 > _When you dig holes or place materials on the ground, this information persists and can either be stored locally so that only the player sees it, or committed back to the server so the changes are visible to all._
 
 ## Explore the galaxy, build communities, play together or alone
@@ -27,4 +27,4 @@ While Itinerant is designed to provide a multifaceted experience, the current fo
 - A build system that feels realistic within the universe, with far greater customization options than has ever been seen before.
 - A multiplayer mode from day one, although leaning heavily on individual experiences to begin with, being aware of the fact that there still needs to be a playable and interesting game worth spending time in even if there aren't many people online, or they're spread out too thinly across a galaxy.
 
-![planet-03-building](https://github.com/user-attachments/assets/6d8142d4-6560-4486-a49b-2e92f140c4cb)
+![planet-03-building](img/planet-03-building.jpg)
