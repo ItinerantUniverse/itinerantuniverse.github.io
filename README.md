@@ -4,7 +4,7 @@ Itinerant is a first-person open-world multiplayer survival/sandbox game based a
 
 Whilst these topics tread well-worn ground in gaming history, Itinerant has several features and directions which will provide a unique and new gaming experience for both casual and hardcore gamers alike.
 
-![planet-04-base-station](https://github.com/user-attachments/assets/c50f744c-6d1b-4735-9be4-482bbe8420f4)
+![planet-04-base-station](img/planet-04-base-station.jpg)
 > _Note: All screenshots shown in this Wiki are taken directly from an early alpha build of Itinerant, and do not necessarily represent the intended quality of the finished game_
 
 ## Planets, solar systems, galaxies...
