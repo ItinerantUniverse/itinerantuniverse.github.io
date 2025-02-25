@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Itinerant
-  avatar: leonids-logo.png
+  avatar:
   job: ""
   bio: ""
   email:
