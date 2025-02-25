@@ -1,3 +1,5 @@
+# Introduction
+
 ## _It's the 1980's, but in space..._
 
 Itinerant is a first-person open-world multiplayer survival/sandbox game based around the main concepts of resource-gathering, building, exploring, taking part in challenges and interacting with other players.
