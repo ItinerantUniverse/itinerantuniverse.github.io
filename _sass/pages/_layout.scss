@@ -77,15 +77,8 @@
   padding: 0;
   list-style: none;
   .nav-item {
-    display: inline-block;
-    *display: inline;
+    display: block;
     zoom: 1;
-    &:after {
-      content: '/';
-    }
-    &:last-child:after {
-      content: '';
-    }
     & a {
       margin-top: 1em;
       text-transform: lowercase;
