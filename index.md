@@ -37,3 +37,5 @@ While Itinerant is designed to provide a multifaceted experience, the current fo
 - A multiplayer mode from day one, although leaning heavily on individual experiences to begin with, being aware of the fact that there still needs to be a playable and interesting game worth spending time in even if there aren't many people online, or they're spread out too thinly across a galaxy.
 
 ![planet-03-building](img/planet-03-building.jpg)
+
+[Next: Technology in Itinerant](2.-Technology.html)
