@@ -1,18 +1,20 @@
 ---
 layout: page
-title: Introduction
+title: 1. Introduction
 subtitle:
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
+# Introduction
+
 ## _It's the 1980's, but in space..._
 
 Itinerant is a first-person open-world multiplayer survival/sandbox game based around the main concepts of resource-gathering, building, exploring, taking part in challenges and interacting with other players.
 
-Whilst these topics tread well-worn ground in gaming history, Itinerant has several features and directions which will provide a unique and new gaming experience for both casual and hardcore gamers alike.
+Whilst these topics tread well-worn ground, Itinerant has several features and directions which will provide a unique and new gaming experience for both casual and hardcore gamers alike.
 
 ![planet-04-base-station](img/planet-04-base-station.jpg)
-> _Note: All screenshots shown in this Wiki are taken directly from an early alpha build of Itinerant, and do not necessarily represent the intended quality of the finished game_
+> _Note: All screenshots shown are taken directly from an early alpha build of Itinerant, and do not necessarily represent the intended quality of the finished game_
 
 ## Planets, solar systems, galaxies...
 
