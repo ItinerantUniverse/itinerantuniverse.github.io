@@ -38,4 +38,4 @@ While Itinerant is designed to provide a multifaceted experience, the current fo
 
 ![planet-03-building](img/planet-03-building.jpg)
 
-[Next: Technology in Itinerant](2.-Technology.html)
+[Next: Technology in Itinerant](2.-Technology.html){: float-right }
